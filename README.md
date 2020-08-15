@@ -1,0 +1,1 @@
+A small project demonstrating a simple landing page with a video in background.
